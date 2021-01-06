@@ -1,13 +1,21 @@
 # AAS237-TimeSeries
 
-This repo contains content for a workshop on time series data analysis being held at the [237th AAS Meeting](https://aas.org/meetings/aas237), being held virtually in January 2021.  Topics include:
+This repo contains content for a workshop on time series data analysis being held at the [237th AAS Meeting](https://aas.org/meetings/aas237), being held virtually on 8 January 2021.  
 
-* Time series analysis using periodograms (Loredo)
+The presenters are:
+
+* [Daniela Huppenkothen](https://huppenkothen.org/) (SRON Netherlands Institute for Space Research)
+* [Tom Loredo](http://www.astro.cornell.edu/staff/loredo/) (workshop organizer, Cornell Center for Astrophysics and Planetary Science)
+* [Jeff Scargle](https://www.nasa.gov/centers/ames/research/2007/scargle.html) (NASA Ames Research Center).
+
+The workshop will have three sessions (separated by half-hour breaks):
+
+* Time series analysis using periodograms (Loredo): 11am - 1pm ET 
 * New methods for analyzing irregularly sampled time series and point
-  data (Scargle)
-* New tools for spectro-temporal analysis of X ray time series data (Huppenkothen)
+  data (Scargle): 1:30pm - 3:30pm ET
+* New tools for spectro-temporal analysis of X ray time series data (Huppenkothen): 4pm - 6pm ET
 
-The workshop will include hands-on demonstrations using Python (in Jupyter notebooks), and possibly some live demos in MATLAB (with code available for MATLAB users).  The presenters are [Daniela Huppenkothen](https://huppenkothen.org/) (SRON Netherlands Institute for Space Research), [Tom Loredo](http://www.astro.cornell.edu/staff/loredo/) (workshop organizer, Cornell Center for Astrophysics and Planetary Science), and [Jeff Scargle](https://www.nasa.gov/centers/ames/research/2007/scargle.html) (NASA Ames Research Center).
+The workshop will include hands-on demonstrations using Python (in Jupyter notebooks), and possibly some live demos in MATLAB (with code available for MATLAB users).
 
 ## Computer preparation for the workshop
 

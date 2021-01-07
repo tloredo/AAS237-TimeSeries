@@ -28,12 +28,8 @@ We will presume participants have basic familiarity with terminal-based command 
 To run the lab materials, you will need the following resources (version numbers are those we used for testing; earlier versions will likely work but it's safest to use these versions):
 
 * Python 3.8+
-
 * IPython 7+
-
 * The PyData stack (NumPy, SciPy, matplotlib...)
-
-* A C/C++ compiler compatible with Python (this may not be a requirement; stay tuned)
 
 If you already have these resources installed and are feeling adventurous, feel free to use your own installation. But please note that the limited time we have for the workshop won't allow us to help with problems associated with specific installations.
 
@@ -62,7 +58,7 @@ Set up a `ts21` environment for the workshop as follows:
   $ conda activate ts21
   ```
   
-* Add the `stingray` package to the environment (this will also add several dependencies, such as `statsmodels`, `emcee`, and `corner`; note that you must run this command in the *activated* environment):
+* Add the `stingray` package to the environment (this will also add several dependencies, such as `statsmodels`, `emcee`, and `corner`; note that you must run this command in the *activated* environment):
 
   ```bash
   $ conda install -c conda-forge stingray

@@ -5,10 +5,10 @@ and state-of-the-art methods and tools for exploratory and statistical
 analysis of time series data arising in astronomy. Three sessions will
 cover:
 
-* periodograms and related Fourier methods
-* new methods for
+* Periodograms and related Fourier methods,
+* New methods for
   irregularly sampled time series and individual-event data, and 
-* new tools
+* New tools
   for spectro-temporal analysis of photon counting and event data.
 
 The sessions will include tutorial introductions to the motivating astronomy and key statistical and signal processing ideas, and software demonstrations, including hands-on exercises using Python packages developed for astronomical time series analysis.

@@ -10,6 +10,7 @@ cover:
   irregularly sampled time series and individual-event data, and 
 * new tools
   for spectro-temporal analysis of photon counting and event data.
+
 The sessions will include tutorial introductions to the motivating astronomy and key statistical and signal processing ideas, and software demonstrations, including hands-on exercises using Python packages developed for astronomical time series analysis.
 
 Brief descriptions of the three planned sessions are as follows.

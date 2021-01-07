@@ -63,6 +63,7 @@ Set up a `ts21` environment for the workshop as follows:
   ```bash
   $ conda install -c conda-forge stingray
   ```
+  If you're *not* using conda to manage your Python distribution, see the [installation instructions in the Stingray documentation](https://stingray.readthedocs.io/en/latest/stingray/docs/install.html).
 
 * We may provide some test code to run in the near future; stay tuned on Slack for announcements.
 

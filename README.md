@@ -31,14 +31,14 @@ The presentations assume participants have basic familiarity with the following 
   - Gaussian (normal) 
   - Poisson 
   - Multivariate normal 
-* Parameter estimation via least squares, weighted least squares ($\chi^2$ minimization) and maximum likelihood
+* Parameter estimation via least squares, weighted least squares ($\chi^2$ minimization) and maximum likelihood
 * Basic familiarity with Bayesian data analysis 
   - Bayes's theorem (priors, likelihoods, posteriors) 
   - Marginalization, marginal distributions
 
 Suggested reading for brushing up on some of these topics includes the following:
 
-* For a good overview of various types of astrophysical variability, see Simon Vaughan's review article: [Random time series in Astronomy (ADS - arXiv)](https://ui.adsabs.harvard.edu/abs/2013arXiv1309.6435V/abstract) (publisher's version: [Random time series in astronomy | Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0549)).
+* For a good overview of various types of astrophysical variability, see Simon Vaughan's review article: [Random time series in Astronomy (ADS - arXiv)](https://ui.adsabs.harvard.edu/abs/2013arXiv1309.6435V/abstract) (publisher's version: [Random time series in astronomy | Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0549)).
 * For a quick review of Fourier essentials, see Jake VanderPlas's tutorial, [Understanding the Lomb-Scargle Periodogram (ADS)](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...16V/abstract), particularly section 2. We'll be using some of Jake's figures.
 * For a quick (~3pp), self-contained introduction to basic Bayesian ideas and terminology, see Section 2 of Gregory & Loredo (1992; GL92): [A New Method for the Detection of a Periodic Signal of Unknown Shape and Period (ADS)](https://ui.adsabs.harvard.edu/abs/1992ApJ...398..146G/abstract). This paper also describes the Poisson point process likelihood function for point or event data, at the start of Section 3.
 * Probably the best known feature of Bayesian data analysis is the appearance of prior probabilities. But the key distinguishing feature of Bayesian methods is *marginalization*. The GL92 overview briefly explains what marginalization is. For more on its importance, see [Bayesian Astrostatistics: A Backward Look to the Future (ADS)](https://ui.adsabs.harvard.edu/abs/2013acna.conf...15L/abstract), particularly pp. 10-12 (on the "Bayesian = Frequentist + Priors" misconception).
@@ -91,7 +91,7 @@ Set up a `ts21` environment for the workshop as follows:
   ```bash
   $ conda install -c conda-forge stingray
   ```
-  If you're *not* using conda to manage your Python distribution, see the [installation instructions in the Stingray documentation](https://stingray.readthedocs.io/en/latest/stingray/docs/install.html).
+  If you're *not* using conda to manage your Python distribution, see the [installation instructions in the Stingray documentation](https://stingray.readthedocs.io/).
 
 * We may provide some test code to run in the near future; stay tuned on Slack for announcements.
 

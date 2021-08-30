@@ -2,7 +2,7 @@
 
 This repo contains content for a workshop on time series data analysis held at the (virtual) [237th AAS Meeting](https://aas.org/meetings/aas237) on 8 January 2021.  
 
-The presenters are:
+Presenters:
 
 * [Daniela Huppenkothen](https://huppenkothen.org/) (SRON Netherlands Institute for Space Research)
 * [Tom Loredo](http://www.astro.cornell.edu/staff/loredo/) (workshop organizer, Cornell Center for Astrophysics and Planetary Science)

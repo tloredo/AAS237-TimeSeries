@@ -89,8 +89,8 @@ def ft_uneven(values, times, omegas, ft_sign, time_zero, weights=None, lin_weigh
                 ssum = np.sum(weights * np.sin(2.0 * omg * times))
                 tau = 0.5 * np.arctan2(ssum, csum)
 
-                sumr = np.sum(values * cos(omg * times - tau))
-                sumi = np.sum(values * sin(omg * times - tau))
+                sumr = np.sum(values * np.cos(omg * times - tau))
+                sumi = np.sum(values * np.sin(omg * times - tau))
 
                 scos2 = np.sum(weights * (np.cos(omg * times - tau))**2)
                 ssin2 = np.sum(weights * (np.sin(omg * times - tau))**2)
